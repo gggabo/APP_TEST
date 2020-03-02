@@ -1,0 +1,9 @@
+com\apptest\application\backend\LongToStringEncoder.class
+com\apptest\application\views\dashboard1\Dashboard1View.class
+com\apptest\application\backend\BackendService.class
+com\apptest\application\views\main\MainView.class
+com\apptest\application\views\dashboard11\Dashboard11View.class
+com\apptest\application\backend\Employee.class
+com\apptest\application\views\dashboard\DashboardView.class
+com\apptest\application\views\dashboard1\Person.class
+com\apptest\application\views\masterdetail\MasterDetailView.class
